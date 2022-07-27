@@ -10,7 +10,7 @@ A landing page for a law firm made using pure HTML and CSS
 ## Time Taken for Completion
 - 2 hours
 
-<!-- ### Checkout the Project here : [nisargsrestaurant](https://nisargsrestaurant.netlify.app/) -->
+### Checkout the Project here : [laworganisation](https://laworganisation.netlify.app/)
 
 ## Output
 ![output](output.png)
